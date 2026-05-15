@@ -47,5 +47,7 @@ Automatización de Reportes: Eliminación de horas hombre dedicadas a descargar,
 Estandarización de Catálogos: Limpieza y homologación de bases de datos de proveedores, materiales o clientes para evitar duplicidad operativa.
 
 Migración de Datos Confiable: Preparación y empaquetado de datos históricos limpios para alimentar bases de datos relacionales (SQL) sin errores de llave o restricción.
+
+
 🧑‍💻 Autor
 Irving Gerardo Campos Gómez - Head of Technological Evolution / Logistics & IT Specialist
